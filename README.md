@@ -1,5 +1,3 @@
-# 수강 관련 문의 : [kitri](http://kitri.re.kr)
-
 # Usage.
 ```
 git config --global core.autocrlf false
